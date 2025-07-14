@@ -1,0 +1,1916 @@
+
+2025-07-14 19:18:21 - HSYSTRadio - INFO - Starting HSYST Radio Player v8.1
+2025-07-14 19:18:21 - HSYSTRadio - INFO - No config file found, using defaults
+2025-07-14 19:18:21 - HSYSTRadio - WARNING - Buffer below minimum, urgently adding 5 tracks
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:18:21 - HSYSTRadio - INFO - Waiting for initial buffer to fill (needed: 5)
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Rate limiting: waiting 5.0s before next request
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.9s
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Rate limiting: waiting 4.5s before next request
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.8s
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Rate limiting: waiting 4.4s before next request
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.7s
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Rate limiting: waiting 4.3s before next request
+2025-07-14 19:18:21 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:22 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:22 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:23 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:23 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:24 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:24 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:25 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:25 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:18:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:18:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:18:26 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:26 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:18:26 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:27 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:27 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.6s
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.5s
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.3s before next request
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.4s
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.0s before next request
+2025-07-14 19:18:28 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:29 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:29 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:30 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:30 - HSYSTRadio - DEBUG - Downloading track 457904289: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/457904289.mp3 https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:18:30 - HSYSTRadio - DEBUG - Downloading track 257500462: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/257500462.mp3 https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:18:30 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:31 - HSYSTRadio - DEBUG - Downloading track 449883048: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/449883048.mp3 https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:18:31 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:31 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:32 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:32 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:33 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:33 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:34 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:34 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:35 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:35 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:36 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:36 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:37 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:38 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:38 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:39 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:39 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:40 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:40 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:41 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:41 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:42 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:42 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:43 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:43 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:44 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:44 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:45 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:45 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:46 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:46 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:47 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:47 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:48 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:48 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:49 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:49 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:50 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:50 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:50 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/457904289.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#FFD700:s=1920x1080:r=30,drawtext=text='Aonde Foi Que Eu Errei?':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.276-3),(212.276-t)/3,1)',drawtext=text='Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.276-3),(212.276-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.276-3),(212.276-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.276-3),(212.276-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.276-3),(212.276-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 212.276 videos/457904289.mp4
+2025-07-14 19:18:51 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:51 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:52 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:52 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:53 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:53 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:54 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:54 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:55 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:55 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:56 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:56 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:57 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:57 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:58 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:58 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:59 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:18:59 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:00 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:00 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:01 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:01 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:02 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:02 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:03 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/449883048.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#FF1493:s=1920x1080:r=30,drawtext=text='Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.147-3),(360.147-t)/3,1)',drawtext=text='Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.147-3),(360.147-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.147-3),(360.147-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.147-3),(360.147-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.147-3),(360.147-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 360.147 videos/449883048.mp4
+2025-07-14 19:19:03 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:03 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/257500462.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#32CD32:s=1920x1080:r=30,drawtext=text='Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.21-3),(360.21-t)/3,1)',drawtext=text='Banda Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.21-3),(360.21-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.21-3),(360.21-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.21-3),(360.21-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,360.21-3),(360.21-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 360.21 videos/257500462.mp4
+2025-07-14 19:19:03 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:04 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:04 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:05 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:05 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:06 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:06 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:07 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:07 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:08 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:08 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:09 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:09 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:10 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:10 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:11 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:11 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:12 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:12 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:13 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:13 - HSYSTRadio - DEBUG - Current buffer size: 0
+2025-07-14 19:19:13 - HSYSTRadio - INFO - Enqueued track: 457904289
+2025-07-14 19:19:13 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.3s
+2025-07-14 19:19:13 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:19:14 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:14 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:15 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:15 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:16 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:16 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:16 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:19:16 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.2s
+2025-07-14 19:19:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.4s before next request
+2025-07-14 19:19:17 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:17 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:18 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:18 - HSYSTRadio - DEBUG - Downloading track 71999380: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/71999380.mp3 https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:19:18 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:19 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:19 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:20 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:20 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:21 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:21 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:22 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:22 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:23 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:23 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:24 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:24 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:25 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:25 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:26 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:26 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:27 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:27 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:28 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:28 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:29 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:29 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:30 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:30 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:31 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:31 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:32 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:32 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:33 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:33 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:34 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:34 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:35 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:35 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:36 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:36 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:37 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:37 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:38 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:38 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:39 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:39 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:40 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:40 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:41 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:41 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:42 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:42 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:43 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:43 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:44 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:44 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:45 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:45 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:46 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:46 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:47 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:47 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:48 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:48 - HSYSTRadio - DEBUG - Current buffer size: 1
+2025-07-14 19:19:49 - HSYSTRadio - INFO - Enqueued track: 449883048
+2025-07-14 19:19:49 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.1s
+2025-07-14 19:19:49 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:19:49 - HSYSTRadio - DEBUG - Current buffer size: 2
+2025-07-14 19:19:49 - HSYSTRadio - DEBUG - Current buffer size: 2
+2025-07-14 19:19:49 - HSYSTRadio - INFO - Enqueued track: 257500462
+2025-07-14 19:19:49 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 4.0s
+2025-07-14 19:19:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 3.2s before next request
+2025-07-14 19:19:50 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:50 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:51 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:51 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:19:51 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.9s
+2025-07-14 19:19:51 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.6s before next request
+2025-07-14 19:19:51 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/71999380.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#00CED1:s=1920x1080:r=30,drawtext=text='Vida - Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,317.912-3),(317.912-t)/3,1)',drawtext=text='Banda Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,317.912-3),(317.912-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,317.912-3),(317.912-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,317.912-3),(317.912-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,317.912-3),(317.912-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 317.912 videos/71999380.mp4
+2025-07-14 19:19:51 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:52 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:52 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:53 - HSYSTRadio - DEBUG - Downloading track 652656428: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/652656428.mp3 https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:19:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:19:53 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:53 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:54 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:54 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:55 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:55 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:55 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:19:55 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.8s
+2025-07-14 19:19:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:19:56 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:56 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:56 - HSYSTRadio - DEBUG - Downloading track 320736769: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/320736769.mp3 https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:19:57 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:57 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:58 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:58 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:59 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:19:59 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:00 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:00 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:01 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:01 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:02 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:02 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:03 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:03 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:04 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:04 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:05 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:05 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:06 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:06 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:07 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:07 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:08 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:08 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:09 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:09 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:10 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:10 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:11 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:11 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:12 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:12 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:13 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:13 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:14 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:14 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:15 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:15 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:16 - HSYSTRadio - DEBUG - Current buffer size: 3
+2025-07-14 19:20:16 - HSYSTRadio - INFO - Enqueued track: 71999380
+2025-07-14 19:20:16 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.7s
+2025-07-14 19:20:16 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:20:16 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:17 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:17 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:18 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:18 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:20:18 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.6s
+2025-07-14 19:20:18 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.5s before next request
+2025-07-14 19:20:18 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:19 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:19 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:20 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/652656428.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#FFD700:s=1920x1080:r=30,drawtext=text='Ilha Grande (Acústico)':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,325.463-3),(325.463-t)/3,1)',drawtext=text='Monte Zion':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,325.463-3),(325.463-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,325.463-3),(325.463-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,325.463-3),(325.463-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,325.463-3),(325.463-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 325.463 videos/652656428.mp4
+2025-07-14 19:20:20 - HSYSTRadio - DEBUG - Downloading track 320738084: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/320738084.mp3 https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:20:20 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:20 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:21 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:21 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:22 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:22 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:23 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:23 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:24 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:24 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:25 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:25 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:26 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:26 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:27 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:27 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:28 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:28 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:29 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:29 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:30 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:30 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:31 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:31 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:32 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:32 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:33 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:33 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:34 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:34 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:35 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:35 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:36 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:36 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:37 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:37 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:38 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:38 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:39 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:40 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:40 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:41 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:41 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:42 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:42 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:43 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:43 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:44 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:44 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/320738084.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#00CED1:s=1920x1080:r=30,drawtext=text='Navegantes da Ilusão':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,249.223-3),(249.223-t)/3,1)',drawtext=text='Mato Seco':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,249.223-3),(249.223-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,249.223-3),(249.223-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,249.223-3),(249.223-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,249.223-3),(249.223-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 249.223 videos/320738084.mp4
+2025-07-14 19:20:44 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/320736769.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#00CED1:s=1920x1080:r=30,drawtext=text='Brilho Oculto':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,545.209-3),(545.209-t)/3,1)',drawtext=text='Mato Seco':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,545.209-3),(545.209-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,545.209-3),(545.209-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,545.209-3),(545.209-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,545.209-3),(545.209-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 545.209 videos/320736769.mp4
+2025-07-14 19:20:44 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:45 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:45 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:46 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:46 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:47 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:47 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:48 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:48 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:49 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:49 - HSYSTRadio - DEBUG - Current buffer size: 4
+2025-07-14 19:20:49 - HSYSTRadio - INFO - Enqueued track: 652656428
+2025-07-14 19:20:49 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.5s
+2025-07-14 19:20:49 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:20:50 - HSYSTRadio - INFO - Player state changed: IDLE -> PLAYING
+2025-07-14 19:20:50 - HSYSTRadio - INFO - Playing track: 457904289
+2025-07-14 19:20:50 - HSYSTRadio - DEBUG - Starting FFmpeg with command: ffmpeg -re -i videos/457904289.mp4 -c:v libx264 -preset veryfast -b:v 5000k -g 60 -c:a aac -b:a 256k -f flv rtmp://rtmp.livepub.hsyst.xyz/live/open
+2025-07-14 19:20:52 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:20:52 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.4s
+2025-07-14 19:20:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:20:53 - HSYSTRadio - DEBUG - Downloading track 320737734: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/320737734.mp3 https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:21:19 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.3s
+2025-07-14 19:21:19 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:21:20 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:21:20 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.2s
+2025-07-14 19:21:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.2s before next request
+2025-07-14 19:21:22 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:21:22 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.1s
+2025-07-14 19:21:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:21:22 - HSYSTRadio - DEBUG - Downloading track 320736660: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/320736660.mp3 https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:21:23 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:21:31 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/320737734.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#32CD32:s=1920x1080:r=30,drawtext=text='Brilho Oculto':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,420.263-3),(420.263-t)/3,1)',drawtext=text='Mato Seco':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,420.263-3),(420.263-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,420.263-3),(420.263-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,420.263-3),(420.263-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,420.263-3),(420.263-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 420.263 videos/320737734.mp4
+2025-07-14 19:21:52 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/320736660.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#32CD32:s=1920x1080:r=30,drawtext=text='Tudo Nos É Dado (Só Nos Falta Fé)':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,271.596-3),(271.596-t)/3,1)',drawtext=text='Mato Seco':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,271.596-3),(271.596-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,271.596-3),(271.596-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,271.596-3),(271.596-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,271.596-3),(271.596-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 271.596 videos/320736660.mp4
+2025-07-14 19:21:52 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.0s
+2025-07-14 19:21:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:21:54 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:21:54 - HSYSTRadio - DEBUG - High success rate (100%), decreasing delay to 3.0s
+2025-07-14 19:21:54 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:21:55 - HSYSTRadio - DEBUG - Downloading track 320745447: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/320745447.mp3 https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:22:21 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/320745447.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#00CED1:s=1920x1080:r=30,drawtext=text='Mato Seco "Resistência"':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,262.076-3),(262.076-t)/3,1)',drawtext=text='Mato Seco':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,262.076-3),(262.076-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,262.076-3),(262.076-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,262.076-3),(262.076-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,262.076-3),(262.076-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 262.076 videos/320745447.mp4
+2025-07-14 19:22:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:22:33 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:22:33 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:22:33 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.2s before next request
+2025-07-14 19:22:35 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:22:35 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:22:36 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:22:36 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.1s before next request
+2025-07-14 19:22:36 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:22:36 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:22:36 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:22:38 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:22:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:22:38 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:22:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:22:38 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:22:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:22:39 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:22:39 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:22:39 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:22:41 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:22:41 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:22:42 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:22:42 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.1s before next request
+2025-07-14 19:22:42 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:22:42 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:22:44 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:22:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:22:44 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:22:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:22:45 - HSYSTRadio - DEBUG - Downloading track 79228640: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/79228640.mp3 https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:22:45 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:22:47 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:22:47 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:22:48 - HSYSTRadio - DEBUG - Downloading track 15521254: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/15521254.mp3 https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:22:50 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/15521254.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#1E90FF:s=1920x1080:r=30,drawtext=text='03 - Contradicao':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,175.87-3),(175.87-t)/3,1)',drawtext=text='Mama Quilla':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,175.87-3),(175.87-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,175.87-3),(175.87-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,175.87-3),(175.87-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,175.87-3),(175.87-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 175.87 videos/15521254.mp4
+2025-07-14 19:22:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Selected new track: 320738084
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Enqueued track: 320738084
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Added track to buffer: 320738084
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Selected cached track: 320737734
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Enqueued track: 320737734
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Added track to buffer: 320737734
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Selected cached track: 320736660
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Enqueued track: 320736660
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Added track to buffer: 320736660
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Selected cached track: 320745447
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Enqueued track: 320745447
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Added track to buffer: 320745447
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Selected cached track: 15521254
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Enqueued track: 15521254
+2025-07-14 19:22:52 - HSYSTRadio - INFO - Added track to buffer: 15521254
+2025-07-14 19:22:54 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:22:54 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:22:55 - HSYSTRadio - DEBUG - Downloading track 15521094: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/15521094.mp3 https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:22:57 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/79228640.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#1E90FF:s=1920x1080:r=30,drawtext=text='Mama Quilla - Efeito Sintonia (Album\: Efeito Sintonia)':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.859-3),(241.859-t)/3,1)',drawtext=text='Tiago Menezes 6':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.859-3),(241.859-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.859-3),(241.859-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.859-3),(241.859-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.859-3),(241.859-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 241.859 videos/79228640.mp4
+2025-07-14 19:23:12 - HSYSTRadio - DEBUG - Track 15521254 already in queue, skipping enqueue
+2025-07-14 19:23:12 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:23:12 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:23:12 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:23:14 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:23:14 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:23:15 - HSYSTRadio - DEBUG - Downloading track 15521196: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/15521196.mp3 https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:23:15 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:23:20 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/15521094.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#9932CC:s=1920x1080:r=30,drawtext=text='07 - Tudo em seu Lugar':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,260.069-3),(260.069-t)/3,1)',drawtext=text='Mama Quilla':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,260.069-3),(260.069-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,260.069-3),(260.069-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,260.069-3),(260.069-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,260.069-3),(260.069-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 260.069 videos/15521094.mp4
+2025-07-14 19:23:29 - HSYSTRadio - INFO - Enqueued track: 79228640
+2025-07-14 19:23:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:23:31 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:23:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:23:32 - HSYSTRadio - DEBUG - Downloading track 15521016: yt-dlp -x --audio-format mp3 --audio-quality 192K --no-playlist --no-warnings --referer https://soundcloud.com/ --throttled-rate 100K -o cache/15521016.mp3 https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:23:36 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/15521196.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#FF1493:s=1920x1080:r=30,drawtext=text='02 - Melodia Positiva':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.272-3),(212.272-t)/3,1)',drawtext=text='Mama Quilla':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.272-3),(212.272-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.272-3),(212.272-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.272-3),(212.272-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,212.272-3),(212.272-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 212.272 videos/15521196.mp4
+2025-07-14 19:23:52 - HSYSTRadio - INFO - Enqueued track: 15521094
+2025-07-14 19:23:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:23:55 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:23:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:23:55 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:23:55 - HSYSTRadio - DEBUG - Creating track video: ffmpeg -y -i cache/15521016.mp3 -f lavfi -i color=c=black:s=1920x1080:r=30 -filter_complex color=c=#00CED1:s=1920x1080:r=30,drawtext=text='06 - Efeito Sintonia':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=72:x=50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.907-3),(241.907-t)/3,1)',drawtext=text='Mama Quilla':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=54:x=50:y=h-text_h-50-72-30:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.907-3),(241.907-t)/3,1)',drawtext=text='HSYST RADIO':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=#00FFCC:fontsize=36:x=w-text_w-50:y=h-text_h-50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.907-3),(241.907-t)/3,1)',drawtext=text='Criado por op3n':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=white:fontsize=36:x=50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.907-3),(241.907-t)/3,1)',drawtext=text='• AO VIVO •':fontfile='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf':fontcolor=red:fontsize=36:x=w-text_w-50:y=50:box=1:boxcolor=black@0.7:boxborderw=10:alpha='if(lt(t,3),t/3,1)*if(gt(t,241.907-3),(241.907-t)/3,1)'[v] -map [v] -map 0:a -c:v libx264 -preset ultrafast -crf 18 -c:a aac -b:a 192k -pix_fmt yuv420p -t 241.907 videos/15521016.mp4
+2025-07-14 19:23:58 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:23:58 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:24:01 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:24:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.2s before next request
+2025-07-14 19:24:01 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:24:01 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:24:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.8s before next request
+2025-07-14 19:24:03 - HSYSTRadio - INFO - Enqueued track: 15521196
+2025-07-14 19:24:03 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:04 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:24:04 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:24:05 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:24:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:24:06 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:24:06 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:07 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:24:07 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:24:09 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:24:09 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:10 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:24:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:10 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:24:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:24:10 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:24:10 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:24:10 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:24:12 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:24:12 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:24:13 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:24:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:13 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:24:13 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:24:14 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:24:14 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:24:15 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:24:15 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:16 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:24:16 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:24:17 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:24:17 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:24:19 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:24:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.1s before next request
+2025-07-14 19:24:19 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:24:19 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:24:20 - HSYSTRadio - INFO - Enqueued track: 15521016
+2025-07-14 19:24:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.6s before next request
+2025-07-14 19:24:20 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:24:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:24:21 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:24:21 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:24:22 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:24:22 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:24:22 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:24:23 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:24:23 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:24:24 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:24:24 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:24 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:24:24 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:25 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:24:25 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:24:25 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:24:25 - HSYSTRadio - WARNING - FFmpeg process terminated with code 0
+2025-07-14 19:24:25 - HSYSTRadio - ERROR - FFmpeg error output: frame= 6353 fps= 30 q=0.0 size=   14005kB time=00:03:32.09 bitrate= 540.9kbits/s speed=   1x    
+[flv @ 0x631be0b39ec0] Failed to update header with correct duration.
+[flv @ 0x631be0b39ec0] Failed to update header with correct filesize.
+frame= 6368 fps= 30 q=-1.0 Lsize=   14668kB time=00:03:32.24 bitrate= 566.1kbits/s speed=0.998x    
+video:7730kB audio:6648kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.017513%
+[libx264 @ 0x631be0ad9c40] frame I:107   Avg QP: 0.09  size: 51411
+[libx264 @ 0x631be0ad9c40] frame P:1618  Avg QP: 0.09  size:   839
+[libx264 @ 0x631be0ad9c40] frame B:4643  Avg QP: 0.14  size:   227
+[libx264 @ 0x631be0ad9c40] consecutive B-frames:  1.9%  0.6%  5.7% 91.7%
+[libx264 @ 0x631be0ad9c40] mb I  I16..4: 95.7%  0.0%  4.3%
+[libx264 @ 0x631be0ad9c40] mb P  I16..4:  0.4%  0.0%  0.0%  P16..4:  0.3%  0.0%  0.0%  0.0%  0.0%    skip:99.2%
+[libx264 @ 0x631be0ad9c40] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.1%  skip:99.8%  L0:43.3% L1:40.8% BI:15.9%
+[libx264 @ 0x631be0ad9c40] final ratefactor: -28.97
+[libx264 @ 0x631be0ad9c40] 8x8 transform intra:0.1% inter:12.6%
+[libx264 @ 0x631be0ad9c40] coded y,uvDC,uvAC intra: 2.9% 5.0% 4.8% inter: 0.1% 0.1% 0.1%
+[libx264 @ 0x631be0ad9c40] i16 v,h,dc,p: 94%  4%  1%  0%
+[libx264 @ 0x631be0ad9c40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 30% 24% 37%  2%  1%  1%  2%  1%  1%
+[libx264 @ 0x631be0ad9c40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 21% 15%  4%  3%  4%  3%  4%  3%
+[libx264 @ 0x631be0ad9c40] i8c dc,h,v,p: 92%  6%  2%  0%
+[libx264 @ 0x631be0ad9c40] Weighted P-Frames: Y:4.1% UV:3.9%
+[libx264 @ 0x631be0ad9c40] kb/s:298.30
+[aac @ 0x631be0ad9200] Qavg: 499.831
+
+2025-07-14 19:24:25 - HSYSTRadio - WARNING - FFmpeg terminated unexpectedly during playback
+2025-07-14 19:24:25 - HSYSTRadio - INFO - Player state changed: PLAYING -> ERROR
+2025-07-14 19:24:25 - HSYSTRadio - DEBUG - Stopping FFmpeg process
+2025-07-14 19:24:26 - HSYSTRadio - INFO - Player state changed: ERROR -> PLAYING
+2025-07-14 19:24:26 - HSYSTRadio - DEBUG - Starting FFmpeg with command: ffmpeg -re -i videos/449883048.mp4 -c:v libx264 -preset veryfast -b:v 5000k -g 60 -c:a aac -b:a 256k -f flv rtmp://rtmp.livepub.hsyst.xyz/live/open
+2025-07-14 19:24:27 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:24:27 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:28 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:24:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:24:28 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:24:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:24:28 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:24:28 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:24:28 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:24:29 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:24:29 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:24:30 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:24:30 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:24:31 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:24:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:24:31 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:24:31 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:24:31 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:24:33 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:24:33 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:24:34 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:24:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:34 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:24:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:24:34 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:24:34 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:24:34 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:24:35 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:24:35 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:24:36 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:24:36 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:37 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:24:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:37 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:24:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:37 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:24:37 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:24:37 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:24:38 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:24:39 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:24:39 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:24:39 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:24:39 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:24:40 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:24:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:24:40 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:24:40 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:24:40 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:24:42 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:24:42 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:24:42 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:24:42 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:43 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:24:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:43 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:24:43 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:24:43 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:24:44 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:24:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:24:45 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:24:45 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:24:45 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:24:45 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:46 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:24:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:46 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:24:46 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:24:46 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:24:47 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:24:48 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:24:48 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:24:48 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:24:48 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:49 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:24:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:24:49 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:24:49 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:24:49 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:24:51 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:24:51 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:51 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:24:51 - HSYSTRadio - INFO - Using cached track: 320736769
+2025-07-14 19:24:51 - HSYSTRadio - INFO - Enqueued track: 320736769
+2025-07-14 19:24:51 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:51 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:24:52 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:24:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:24:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:24:53 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:24:53 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:24:54 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:24:54 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:54 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:24:54 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:55 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:24:55 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:24:55 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:24:57 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:24:57 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:24:57 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:24:57 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:24:58 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:24:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:24:58 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:24:58 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:24:58 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:24:59 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:24:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:25:00 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:25:00 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:00 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:25:00 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:01 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:25:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:01 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:25:01 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:25:01 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:25:02 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:25:03 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:25:03 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:25:03 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:25:03 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:04 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:25:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.1s before next request
+2025-07-14 19:25:04 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:25:04 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:25:04 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:25:07 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:25:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:25:07 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:25:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:25:07 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:25:07 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:25:07 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:25:08 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:25:08 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.6s before next request
+2025-07-14 19:25:09 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:25:10 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:25:11 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:25:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.4s before next request
+2025-07-14 19:25:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.4s before next request
+2025-07-14 19:25:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.4s before next request
+2025-07-14 19:25:13 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:25:13 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:25:13 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:25:15 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:25:15 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.1s before next request
+2025-07-14 19:25:16 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:25:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:16 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:25:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:25:16 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:25:16 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:25:16 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:25:17 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:25:17 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:25:18 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:25:18 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:18 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:25:18 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:19 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:25:19 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:25:19 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:25:21 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:25:21 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:21 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:25:21 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:22 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:25:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:22 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:25:22 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:25:22 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:25:23 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:25:23 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:25:24 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:25:24 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:24 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:25:24 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:25 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:25:25 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:25:25 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:25:27 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:25:27 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:25:27 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:25:27 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:28 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:25:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:28 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:25:28 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:25:28 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:25:29 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:25:29 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:25:31 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:25:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:31 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:25:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:31 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:25:31 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:25:31 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:25:33 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:25:33 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:33 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:25:33 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:34 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:25:34 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:25:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:25:34 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:25:34 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:25:35 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:25:35 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:25:36 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:25:36 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:37 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:25:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:37 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:25:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:25:37 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:25:37 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:25:37 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:25:38 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:25:39 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:25:39 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:25:40 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:25:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:25:40 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:25:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:25:40 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:25:40 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:25:40 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:25:43 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:25:44 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:25:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:25:45 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:25:45 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:25:46 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:25:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:25:46 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:25:46 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:25:46 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:25:49 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:25:50 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:25:50 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:25:52 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:25:53 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:25:55 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:25:57 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:25:57 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:25:58 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:25:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:25:58 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:25:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:25:58 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:25:58 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:25:58 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:25:59 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:25:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.6s before next request
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:26:01 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:26:02 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:26:04 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:26:05 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:26:07 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:26:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:26:08 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:26:10 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:26:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:26:10 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:26:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:10 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:26:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:26:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:26:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:26:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:26:13 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:26:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:13 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:26:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:13 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:13 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:26:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:26:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:26:14 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:14 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:26:16 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:26:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:26:16 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:26:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:26:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:26:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:26:18 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:26:18 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:26:19 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:26:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:19 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:26:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:26:19 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:26:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:26:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:26:20 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:26:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:26:22 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:26:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:26:22 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:26:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:26:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:26:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:26:25 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:26:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:25 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:26:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:25 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:26:25 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:26:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:26:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:26:26 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:26 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:26:28 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:26:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:28 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:26:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:26:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:26:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:26:30 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:26:30 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:26:31 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:26:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:31 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:26:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:26:31 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:26:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:26:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:26:32 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:26:32 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:26:34 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:26:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:34 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:26:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:26:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:26:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:26:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:26:37 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:26:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:37 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:26:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:26:37 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:37 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:26:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:26:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:26:38 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:26:40 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:26:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:40 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:26:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:26:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:26:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:26:43 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:26:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:43 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:43 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:26:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:43 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:26:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:26:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:26:44 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:26:46 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:26:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:26:46 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:26:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:26:46 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:26:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:26:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:26:47 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:49 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:26:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:26:49 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:26:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:49 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:26:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:26:50 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:26:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:26:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:26:50 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:26:50 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:26:52 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:26:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:52 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:26:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:26:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:26:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:26:55 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:26:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:55 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:26:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:55 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:26:55 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:26:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:26:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:26:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:26:56 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:26:56 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:26:58 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:26:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:26:58 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:26:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:26:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:26:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:26:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:27:00 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:27:00 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:27:01 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:27:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:01 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:27:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:01 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:27:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:27:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:27:02 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:27:02 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:27:04 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:27:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:04 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:27:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:27:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:27:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:27:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:27:07 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:27:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:07 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:27:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:07 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:27:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:27:07 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:27:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:27:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:27:08 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:27:08 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.6s before next request
+2025-07-14 19:27:10 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:27:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:11 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:27:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.1s before next request
+2025-07-14 19:27:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:27:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:27:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:27:12 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:27:12 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:27:13 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:27:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:13 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:27:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:27:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:27:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:27:14 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:27:14 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:27:14 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.4s before next request
+2025-07-14 19:27:16 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:27:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:16 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:27:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:27:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:27:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:27:19 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:27:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:19 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:27:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:19 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:27:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:19 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:27:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:27:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:27:20 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:27:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:27:22 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:27:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:22 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:27:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:22 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:27:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:27:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:27:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:27:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:27:23 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:27:25 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:27:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:25 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:27:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:25 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:27:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:27:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:27:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:27:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:27:28 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:27:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:28 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:27:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:28 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:27:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:29 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:27:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:27:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:27:29 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:27:29 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:27:31 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:27:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:31 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:27:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:31 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:27:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:27:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:27:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:27:32 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:27:33 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:27:33 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:27:34 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:27:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:27:34 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:27:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:27:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:27:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:27:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:27:37 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:27:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:37 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:27:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:37 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:27:37 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:27:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:27:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:27:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:27:38 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:27:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:27:40 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:27:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:40 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:27:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:27:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:27:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:27:43 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:27:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:43 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:27:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:43 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:27:43 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:27:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:27:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:27:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:27:44 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:27:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:27:46 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:27:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:46 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:27:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:27:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:27:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:27:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:27:49 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:27:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:27:49 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:27:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:27:49 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:27:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:49 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:27:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:27:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:27:50 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:27:50 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:27:52 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:27:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:52 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:27:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:27:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:27:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:27:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:27:55 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:27:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:27:55 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:27:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:27:55 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:27:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:27:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:27:56 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:27:56 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:27:58 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:27:58 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:27:59 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:27:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:27:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:27:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:28:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:28:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:28:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:28:04 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:28:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:28:04 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:28:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:28:04 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:28:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:04 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:28:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:28:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:28:05 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:28:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:28:07 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:28:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:28:07 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:28:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:28:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:28:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:28:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:28:10 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:28:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:28:10 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:28:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:10 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:28:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:28:10 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:28:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:28:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:28:11 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:28:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:28:13 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:28:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:13 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:28:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:14 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:28:14 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:28:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:28:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:28:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:28:14 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:28:16 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:28:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:17 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:28:17 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:28:17 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:28:17 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:28:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:28:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:28:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:28:19 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:28:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:19 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:28:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:19 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:28:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:28:20 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:28:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:28:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:28:20 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:28:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:28:22 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:28:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:22 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:28:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:28:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:28:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:28:25 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:28:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:28:25 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:28:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:28:25 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:28:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:25 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:28:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:28:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:28:26 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:28:26 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.4s before next request
+2025-07-14 19:28:28 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:28:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:28:28 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:28:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:28:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:28:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:28:31 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:28:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:28:31 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:28:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:28:31 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:28:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:28:32 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:28:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:28:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:28:32 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:28:32 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:28:34 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:28:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:34 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:28:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:28:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:28:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:28:37 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:28:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:28:37 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:28:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:37 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:28:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:37 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:28:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:28:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:28:38 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:28:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:28:40 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:28:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:40 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:28:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:40 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:28:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:28:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:28:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:28:41 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:28:43 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:28:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:28:43 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:28:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:43 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:28:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:43 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:28:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:28:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:28:44 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:28:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:28:46 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:28:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:46 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:28:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:28:47 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:28:47 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:28:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:28:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:28:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:28:47 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:28:49 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:28:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:28:49 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:28:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:28:50 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:28:50 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:28:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:28:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:28:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:28:52 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:28:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:52 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:28:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:52 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:28:52 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:28:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:28:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:28:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:28:54 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:28:54 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:28:55 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:28:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:28:55 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:28:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:28:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:28:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:28:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:28:58 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:28:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:28:58 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:28:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:28:59 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:28:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:28:59 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:28:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:28:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:28:59 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:28:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:29:01 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:29:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:01 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:29:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:29:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:29:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:29:04 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:29:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:29:04 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:29:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:04 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:29:05 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:29:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:29:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:29:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:29:06 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:29:06 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:29:07 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:29:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:08 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:29:08 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:29:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:29:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:29:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:29:10 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:29:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:10 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:29:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:29:11 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:29:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:29:11 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:29:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:29:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:29:11 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:29:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:29:13 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:29:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:13 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:29:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:13 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:29:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:29:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:29:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:29:14 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:29:16 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:29:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:16 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:29:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:16 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:29:16 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:29:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:29:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:29:17 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:29:17 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:29:19 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:29:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:29:19 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:29:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:29:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:29:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:29:22 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:29:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:29:22 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:29:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:29:22 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:29:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:22 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:29:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:29:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:29:23 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:29:23 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:29:25 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:29:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:25 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:29:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:29:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:29:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:29:28 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:29:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:28 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:29:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:28 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:29:28 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:29:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:29:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:29:29 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:29:29 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:29:31 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:29:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:31 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:29:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:29:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:29:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:29:34 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:29:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:34 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:29:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:34 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:29:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:34 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:29:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:29:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:29:35 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:29:35 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:29:37 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:29:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:38 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:29:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:29:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:29:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:29:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:29:40 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:29:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:40 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:29:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:40 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:29:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:40 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:29:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:29:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:29:42 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:29:42 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:29:43 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:29:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:29:44 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:29:46 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:29:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:29:46 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:29:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:29:46 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:29:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:29:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:29:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:29:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:29:49 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:29:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:29:49 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:29:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:49 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:29:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:50 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:29:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:29:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:29:51 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:29:51 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:29:52 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:29:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:53 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:29:53 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:29:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:29:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:29:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:29:55 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:29:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:29:55 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:29:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:29:55 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:29:56 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:29:56 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:29:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:29:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:29:56 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:29:56 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:29:58 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:29:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:29:58 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:29:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:29:59 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:29:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:29:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:29:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:29:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:29:59 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:30:01 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:30:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:30:01 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:30:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:02 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:30:02 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:30:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:30:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:30:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:30:04 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:30:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:04 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:30:04 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:05 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:30:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:30:05 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:30:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:30:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:30:05 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:30:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:30:07 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:30:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:07 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:30:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:30:07 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:30:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:30:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:30:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:30:09 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:30:10 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:30:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:30:10 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:30:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:30:11 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:30:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:30:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:30:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:30:11 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:30:11 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:30:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:30:13 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:30:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:13 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:30:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:30:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:30:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:30:16 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:30:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:16 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:30:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:17 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:30:17 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:17 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:30:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:30:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:30:18 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:30:18 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:30:19 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:30:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:19 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:30:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:30:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:30:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:30:22 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:30:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:30:22 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:30:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:23 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:30:23 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:30:23 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:30:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:30:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:30:24 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:30:24 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:30:25 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:30:25 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:30:26 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:30:26 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:30:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:30:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:30:26 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:30:28 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:30:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:28 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:30:28 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:29 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:30:29 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:29 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:30:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:30:29 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:30:30 - HSYSTRadio - WARNING - FFmpeg process terminated with code 0
+2025-07-14 19:30:30 - HSYSTRadio - ERROR - FFmpeg error output: [flv @ 0x63e841b920c0] Failed to update header with correct duration.
+[flv @ 0x63e841b920c0] Failed to update header with correct filesize.
+frame=10804 fps= 30 q=-1.0 Lsize=   21415kB time=00:06:00.10 bitrate= 487.2kbits/s speed=0.999x    
+video:9607kB audio:11316kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 2.350460%
+[libx264 @ 0x63e841bd3640] frame I:181   Avg QP: 0.02  size: 41994
+[libx264 @ 0x63e841bd3640] frame P:2708  Avg QP: 0.05  size:   360
+[libx264 @ 0x63e841bd3640] frame B:7915  Avg QP: 0.11  size:   159
+[libx264 @ 0x63e841bd3640] consecutive B-frames:  1.7%  0.1%  5.4% 92.8%
+[libx264 @ 0x63e841bd3640] mb I  I16..4: 96.5%  0.0%  3.5%
+[libx264 @ 0x63e841bd3640] mb P  I16..4:  0.1%  0.0%  0.0%  P16..4:  0.2%  0.0%  0.0%  0.0%  0.0%    skip:99.7%
+[libx264 @ 0x63e841bd3640] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.1%  skip:99.9%  L0:47.2% L1:42.9% BI: 9.9%
+[libx264 @ 0x63e841bd3640] final ratefactor: -32.27
+[libx264 @ 0x63e841bd3640] 8x8 transform intra:0.0% inter:10.1%
+[libx264 @ 0x63e841bd3640] coded y,uvDC,uvAC intra: 2.3% 4.0% 3.9% inter: 0.0% 0.1% 0.0%
+[libx264 @ 0x63e841bd3640] i16 v,h,dc,p: 96%  3%  1%  0%
+[libx264 @ 0x63e841bd3640] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 23% 39%  4%  1%  2%  1%  1%  2%
+[libx264 @ 0x63e841bd3640] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 43% 20% 16%  4%  3%  5%  3%  4%  2%
+[libx264 @ 0x63e841bd3640] i8c dc,h,v,p: 94%  4%  2%  0%
+[libx264 @ 0x63e841bd3640] Weighted P-Frames: Y:1.9% UV:1.8%
+[libx264 @ 0x63e841bd3640] kb/s:218.51
+[aac @ 0x63e841c686c0] Qavg: 716.137
+
+2025-07-14 19:30:30 - HSYSTRadio - WARNING - FFmpeg terminated unexpectedly during playback
+2025-07-14 19:30:30 - HSYSTRadio - INFO - Player state changed: PLAYING -> ERROR
+2025-07-14 19:30:30 - HSYSTRadio - DEBUG - Stopping FFmpeg process
+2025-07-14 19:30:30 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:30:30 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:30:31 - HSYSTRadio - INFO - Player state changed: ERROR -> PLAYING
+2025-07-14 19:30:31 - HSYSTRadio - DEBUG - Starting FFmpeg with command: ffmpeg -re -i videos/257500462.mp4 -c:v libx264 -preset veryfast -b:v 5000k -g 60 -c:a aac -b:a 256k -f flv rtmp://rtmp.livepub.hsyst.xyz/live/open
+2025-07-14 19:30:31 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:30:31 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:30:32 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:30:32 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:30:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:30:32 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:30:33 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:30:33 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.5s before next request
+2025-07-14 19:30:33 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:30:34 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:30:34 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:35 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:30:35 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:30:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:30:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:30:35 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:30:37 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:30:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.2s before next request
+2025-07-14 19:30:37 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:30:37 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:38 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:30:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.6s before next request
+2025-07-14 19:30:38 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:30:38 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.5s before next request
+2025-07-14 19:30:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:30:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:30:38 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:30:39 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:30:40 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:30:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:40 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:30:40 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:40 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:30:41 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:30:41 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:30:41 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:30:42 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:30:42 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:30:43 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:30:43 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:30:44 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:30:44 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:30:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:30:44 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:30:46 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:30:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:46 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:30:46 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:30:46 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:30:47 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:30:47 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:30:47 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:30:48 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:30:48 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:30:49 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:30:49 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:50 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:30:50 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:30:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:30:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:30:50 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:30:52 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:30:52 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:53 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:30:53 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:53 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:30:53 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:30:53 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:30:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:30:53 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:30:54 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:30:54 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:30:55 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:30:55 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:30:56 - HSYSTRadio - DEBUG - Searching SoundCloud for: Monte Zion (limit: 5)
+2025-07-14 19:30:56 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/monte-zion
+2025-07-14 19:30:56 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/monte-zion
+2025-07-14 19:30:57 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:30:57 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.8s before next request
+2025-07-14 19:30:57 - HSYSTRadio - DEBUG - Found 5 tracks for query: Monte Zion
+2025-07-14 19:30:58 - HSYSTRadio - DEBUG - Track info retrieved: 449883048
+2025-07-14 19:30:58 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:30:59 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:30:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:30:59 - HSYSTRadio - DEBUG - Track info retrieved: 257500462
+2025-07-14 19:30:59 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.0s before next request
+2025-07-14 19:30:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/ilha-grande-acustico
+2025-07-14 19:30:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamontezion/vida-monte-zion
+2025-07-14 19:30:59 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/montezionofficial/aonde-foi-que-eu-errei
+2025-07-14 19:31:00 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:31:01 - HSYSTRadio - DEBUG - Track info retrieved: 71999380
+2025-07-14 19:31:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.0s before next request
+2025-07-14 19:31:01 - HSYSTRadio - DEBUG - Track info retrieved: 457904289
+2025-07-14 19:31:01 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:02 - HSYSTRadio - DEBUG - Track info retrieved: 652656428
+2025-07-14 19:31:02 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.4s before next request
+2025-07-14 19:31:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:31:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:31:02 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.8s before next request
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:31:05 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:31:06 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:31:06 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:31:07 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:31:07 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:31:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:07 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_07_tudo-em-seu-lugar
+2025-07-14 19:31:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_03_contradicao
+2025-07-14 19:31:08 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/tiago-menezes-7/mama-quilla-efeito-sintonia
+2025-07-14 19:31:10 - HSYSTRadio - DEBUG - Track info retrieved: 15521254
+2025-07-14 19:31:10 - HSYSTRadio - DEBUG - Rate limiting: waiting 1.3s before next request
+2025-07-14 19:31:11 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:31:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:31:11 - HSYSTRadio - DEBUG - Track info retrieved: 79228640
+2025-07-14 19:31:11 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:31:11 - HSYSTRadio - DEBUG - Track info retrieved: 15521094
+2025-07-14 19:31:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_06_efeito-sintonia
+2025-07-14 19:31:11 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/bandamamaquilla/efeito-sintonia_02_melodia-positiva
+2025-07-14 19:31:12 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:31:12 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:31:13 - HSYSTRadio - DEBUG - Track info retrieved: 15521016
+2025-07-14 19:31:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:13 - HSYSTRadio - DEBUG - Track info retrieved: 15521196
+2025-07-14 19:31:13 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:31:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:31:14 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:31:16 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:31:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:16 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:31:16 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:16 - HSYSTRadio - DEBUG - Track info retrieved: 320736769
+2025-07-14 19:31:17 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:31:17 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:31:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:31:17 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:31:18 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:31:18 - HSYSTRadio - DEBUG - Rate limiting: waiting 2.7s before next request
+2025-07-14 19:31:19 - HSYSTRadio - DEBUG - Track info retrieved: 320745447
+2025-07-14 19:31:19 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:20 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mato Seco (limit: 5)
+2025-07-14 19:31:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:31:20 - HSYSTRadio - DEBUG - Track info retrieved: 320736660
+2025-07-14 19:31:20 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.3s before next request
+2025-07-14 19:31:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto-1
+2025-07-14 19:31:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/navegantes-da-ilusao
+2025-07-14 19:31:20 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/brilho-oculto
+2025-07-14 19:31:21 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mato Seco
+2025-07-14 19:31:22 - HSYSTRadio - DEBUG - Track info retrieved: 320737734
+2025-07-14 19:31:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:22 - HSYSTRadio - DEBUG - Track info retrieved: 320738084
+2025-07-14 19:31:22 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.9s before next request
+2025-07-14 19:31:23 - HSYSTRadio - DEBUG - Searching SoundCloud for: Mama Quilla (limit: 5)
+2025-07-14 19:31:23 - HSYSTRadio - DEBUG - Rate limiting: waiting 0.7s before next request
+2025-07-14 19:31:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/mato-seco-resistencia
+2025-07-14 19:31:23 - HSYSTRadio - DEBUG - Fetching track info for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta
+2025-07-14 19:31:24 - HSYSTRadio - INFO - Received signal 2, shutting down...
+2025-07-14 19:31:24 - HSYSTRadio - INFO - Stopping HSYST Radio Player...
+2025-07-14 19:31:24 - HSYSTRadio - DEBUG - Stopping FFmpeg process
+2025-07-14 19:31:24 - HSYSTRadio - ERROR - yt-dlp error for https://soundcloud.com/matosecoofficial/brilho-oculto: 
+2025-07-14 19:31:24 - HSYSTRadio - ERROR - yt-dlp error for https://soundcloud.com/matosecoofficial/tudo-nos-e-dado-so-nos-falta: Traceback (most recent call last):
+  File "/home/thais/.local/bin/yt-dlp", line 5, in <module>
+    from yt_dlp import main
+  File "/home/thais/.local/lib/python3.10/site-packages/yt_dlp/__init__.py", line 20, in <module>
+    from .extractor.adobepass import MSO_INFO
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1012, in get_code
+  File "<frozen importlib._bootstrap_external>", line 672, in _compile_bytecode
+KeyboardInterrupt
+
+2025-07-14 19:31:24 - HSYSTRadio - ERROR - yt-dlp error for https://soundcloud.com/matosecoofficial/mato-seco-resistencia: Traceback (most recent call last):
+  File "/home/thais/.local/bin/yt-dlp", line 5, in <module>
+    from yt_dlp import main
+  File "/home/thais/.local/lib/python3.10/site-packages/yt_dlp/__init__.py", line 20, in <module>
+    from .extractor.adobepass import MSO_INFO
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 975, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_data
+KeyboardInterrupt
+
+2025-07-14 19:31:24 - HSYSTRadio - INFO - Received signal 2, shutting down...
+2025-07-14 19:31:24 - HSYSTRadio - DEBUG - Found 5 tracks for query: Mama Quilla
+2025-07-14 19:31:24 - HSYSTRadio - ERROR - Preload loop error: cannot schedule new futures after interpreter shutdown
+2025-07-14 19:31:24 - HSYSTRadio - INFO - Received signal 2, shutting down...
